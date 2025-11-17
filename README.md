@@ -34,8 +34,8 @@
                     <button id="selectFileBtn" class="px-6 py-3 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition-colors duration-300">
                         Select File
                     </button>
-                    <p class="text-xs text-gray-400 mt-4">Supports AVI, MKV, MOV, WMV, FLV, and more</p>
-                </div>
+                    <p class="text-xs text-gray-400 mt-4">Suporta AVI, MKV, MOV, WMV, FLV, MP4, 3GP, M4V, OGG, TS, MTS e mais</p>
+</div>
 
                 <!-- Conversion Options -->
                 <div class="bg-gray-50 rounded-lg p-6">
